@@ -39,4 +39,4 @@ Check out the live version here:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sowjanya123-cpu/Analog_Clock.git
+   git clone https://github.com/sowjanyanu-34/Analog_Clock.git
