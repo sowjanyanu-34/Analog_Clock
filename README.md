@@ -7,7 +7,7 @@ Displays the current time with hour, minute, and second hands, and also shows th
 
 ## **Live Demo**
 
-Check out the live version here:  
+Check out the live version :  
 [Analog Clock on Netlify](https://690f6bd1f7e815671839d7e7--friendly-starship-392a9d.netlify.app/)
 
 ---
